@@ -19,7 +19,7 @@ The Changes are listed below, this is by no means a full changelog, but the main
 * Z Lead Screw alignment fixed
 * Alignment printed tools for Y & Z added. (Can be permanently mounted)
 * PEI now recommended build surface. 
-* Recommended firmware is now [Klipper}(https://github.com/KevinOConnor/klipper)
+* Recommended firmware is now [Klipper](https://github.com/KevinOConnor/klipper)
 
 <h3>Reliability, Speed, Accuracy, Open Source</h3>
 
