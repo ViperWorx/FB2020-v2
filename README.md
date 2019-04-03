@@ -38,7 +38,7 @@ The Bill of Materials and further infomation can be found in the Wiki.
 <hr />
 <table border="0px">
 <th align="left">
-&copy; AxMod 3D Print 2017.
+&copy; AxMod 3D Print 2019.
 </th>
 <tr>
 <td>
