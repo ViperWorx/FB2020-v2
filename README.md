@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AxMod3DPrint/FB2020/master/Images/FB2020_logo.jpg" />
 
-This is a complete re-work of our [FB2020 CoreXY] (https://github.com/AxMod3DPrint/FB2020) design that fixes any faults that we have noticed over the 3 years we have had these in service in our farm. 
+This is a complete re-work of our [FB2020 CoreXY](https://github.com/AxMod3DPrint/FB2020) design that fixes any faults that we have noticed over the 3 years we have had these in service in our farm. 
 
 The Changes are listed below, this is by no means a full changelog, but the main changes are listed below:-
 
