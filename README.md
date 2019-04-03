@@ -4,7 +4,7 @@ This is a complete re-work of our [FB2020 CoreXY Design](https://github.com/AxMo
 
 The Changes are listed below, this is by no means a full changelog, but the main changes are listed below:-
 
-Major Changes v2>
+Major Changes v2
 -----------------
 
 * Belt Alignment - Belts were not in line, motors moved to back of printer.
