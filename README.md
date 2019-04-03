@@ -35,8 +35,6 @@ Running the E3D v6 and the Drakon Geared Extruder, it’s smooth printing. The F
 
 The Bill of Materials and further infomation can be found in the Wiki.
 
-Firmware can be found at https://github.com/AxMod3DPrint/FB2020-Firmware
-
 <hr />
 <table border="0px">
 <th align="left">
