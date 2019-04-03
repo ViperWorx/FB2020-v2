@@ -4,7 +4,8 @@ This is a complete re-work of our [FB2020 CoreXY Design](https://github.com/AxMo
 
 The Changes are listed below, this is by no means a full changelog, but the main changes are listed below:-
 
-<h3>Major Changes v2</h3>
+Major Changes v2>
+-----------------
 
 * Belt Alignment - Belts were not in line, motors moved to back of printer.
 * All parts redesigned or re-modelled  
@@ -21,21 +22,25 @@ The Changes are listed below, this is by no means a full changelog, but the main
 * PEI now recommended build surface. 
 * Recommended firmware is now [Klipper](https://github.com/KevinOConnor/klipper)
 
-<h3>Reliability, Speed, Accuracy, Open Source</h3>
+Reliability, Speed, Accuracy, Open Source
+-----------------------------------------
 
 This sums up the FB2020 CoreXY 3D Printer. We use these printers ourselves and wouldn’t sell the kits if we didn’t think they were up to snuff. Our FB2020s have run thousands of hours with very little down time. We print all the FB2020 printed parts on our FB2020s.
 
-<h3>Speed & Reliability</h3>
+Speed & Reliability
+-------------------
 
 The FB2020’s heart is the MKS GEN L running the Klipper Firmware. Klipper runs from a Raspberry Pi and offloads all calculations to the Pi. This means the FB2020 is even faster than the v1. It has tried and trusted A4988 Stepper Drivers moving the motors, which can be upgraded to Trinamic TMC 2130 for super quiet operation. With an AxMod 3D Print Drakon Geared extruder powering the filament through the bowden tube into a Genuine E3D v6 Hot end. This makes for a winning combination. The heated bed is a mains voltage heater bonded to Tool Grade 5mm Aluminium Plate which means you can print any material you wan.
 
-<h3>Low Maintenance Accuracy</h3>
+Low Maintenance Accuracy
+------------------------
 
 Running the E3D v6 and the Drakon Geared Extruder, it’s smooth printing. The FB2020 is capable of layer heights of 60 Microns up to 500 Microns and can print pretty much any filament you can throw at it. 
 
 The Bill of Materials and further infomation can be found in the Wiki.
 
-<hr />
+---
+
 <table border="0px">
 <th align="left">
 &copy; AxMod 3D Print 2019.
